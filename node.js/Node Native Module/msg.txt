@@ -1,0 +1,2 @@
+Hello from node native module!
+Hi , This is new line .
